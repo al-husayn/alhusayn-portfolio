@@ -14,9 +14,9 @@ const exo2 = Exo_2({
 })
 
 export const metadata: Metadata = {
-  title: 'Kinh Bach | Frontend Developer Portfolio',
+  title: 'AL Husayn | Frontend Developer Portfolio',
   description:
-    "Explore Kinh Bach's portfolio – a skilled Frontend Developer specializing in Next.js, React, and modern web technologies. Showcasing innovative projects, UI/UX expertise, and high-performance web applications.",
+    "Explore AL's portfolio – a skilled Frontend Developer specializing in Next.js, React, and modern web technologies. Showcasing innovative projects, UI/UX expertise, and high-performance web applications.",
   keywords: [
     'Frontend Developer',
     'Next.js Developer',
