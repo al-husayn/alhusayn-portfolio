@@ -14,48 +14,54 @@ const exo2 = Exo_2({
 })
 
 export const metadata: Metadata = {
-  title: "Kinh Bach | Frontend Developer Portfolio",
+  title: 'Kinh Bach | Frontend Developer Portfolio',
   description:
     "Explore Kinh Bach's portfolio – a skilled Frontend Developer specializing in Next.js, React, and modern web technologies. Showcasing innovative projects, UI/UX expertise, and high-performance web applications.",
   keywords: [
-    "Frontend Developer",
-    "Next.js Developer",
-    "React Developer",
-    "Kinh Bach Portfolio",
-    "Web Development",
-    "UI/UX Design",
-    "JavaScript",
-    "TypeScript",
-    "Modern Web Technologies",
+    'Frontend Developer',
+    'Next.js Developer',
+    'React Developer',
+    'Al-Husayn Portfolio',
+    'Web Development',
+    'UI/UX Design',
+    'JavaScript',
+    'TypeScript',
+    'Modern Web Technologies',
+    'Responsive Design',
+    'Performance Optimization',
+    'Frontend Engineer',
+    'Web Applications',
+    'Crypto & Blockchain',
+    'Web3',
   ],
   openGraph: {
-    title: "Kinh Bach | Frontend Developer Portfolio",
+    title: 'AL Husayn | Frontend Developer Portfolio',
     description:
-      "Discover Kinh Bach's expertise in Frontend Development, React, and Next.js. View projects, case studies, and technical skills.",
-    url: "https://kinhdev.id.vn",
-    type: "website",
+      "Discover AL's expertise in Frontend Development, React, and Next.js. View projects, case studies, and technical skills.",
+    url: 'https://kinhdev.id.vn',
+    type: 'website',
     images: [
       {
-        url: "https://voocgavdbpy2gucg.public.blob.vercel-storage.com/open-graph-6fkPvt3jl60AhDWy2pPhfp3PKoZPrZ.png",
+        url: 'https://voocgavdbpy2gucg.public.blob.vercel-storage.com/open-graph-6fkPvt3jl60AhDWy2pPhfp3PKoZPrZ.png',
         width: 1200,
         height: 630,
-        alt: "Kinh Bach - Frontend Developer Portfolio",
+        alt: 'AL Husayn - Frontend Developer Portfolio',
       },
     ],
   },
   twitter: {
-    card: "summary_large_image",
-    title: "Kinh Bach | Frontend Developer Portfolio",
+    card: 'summary_large_image',
+    title: 'AL Husayn | Frontend Developer Portfolio',
     description:
-      "Explore Kinh Bach's frontend projects and expertise in React, Next.js, and modern web development.",
+      "Explore AL's frontend projects and expertise in React, Next.js, and modern web development.",
     images: [
-      "https://voocgavdbpy2gucg.public.blob.vercel-storage.com/open-graph-6fkPvt3jl60AhDWy2pPhfp3PKoZPrZ.png",
+      'https://voocgavdbpy2gucg.public.blob.vercel-storage.com/open-graph-6fkPvt3jl60AhDWy2pPhfp3PKoZPrZ.png',
     ],
   },
   icons: {
-    icon: "/favicon.ico",
+    icon: '/favicon.ico',
   },
-}
+};
 
 export default function RootLayout({
   children,
