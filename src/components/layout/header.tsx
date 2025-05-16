@@ -135,7 +135,7 @@ export const Header = () => {
                 <DrawerHeader className="flex justify-between">
                   <DrawerTitle className="flex items-center gap-2">
                     <Logo className="size-14" />
-                    kinhdev.id.vn
+                    AL
                   </DrawerTitle>
                   <DrawerClose
                     asChild
